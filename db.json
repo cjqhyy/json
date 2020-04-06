@@ -1,16 +1,19 @@
 {
-	"data":{
-		"users":[
-			{
-				"id":1,
-				"name":"chan",
-				"email":"chan@qq.com"
-			},
-			{
-				"id":2,
-				"name":"cjqhyy",
-				"email":"cjqhyy@qq.com"
-			}
-		]
+	"api":{
+		"users":{
+			"data":[
+				{
+					"id":1,
+					"name":"chan",
+					"email":"chan@qq.com"
+				},
+				{
+					"id":2,
+					"name":"cjqhyy",
+					"email":"cjqhyy@qq.com"
+				}
+			]
+		}
+		
 	}
 }
